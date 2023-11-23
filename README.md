@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhs676&label=Profile%20views&color=0e75b6&style=flat" alt="mhs676" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mhs676" alt="mhs676" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/@siamtwisted" target="blank"><img src="https://img.shields.io/twitter/follow/@siamtwisted?logo=twitter&style=for-the-badge" alt="@siamtwisted" /></a> </p>
 <img align= "right" width="400" alt="Coding" src="https://user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif">
+<p align="left"> <a href="https://twitter.com/@siamtwisted" target="blank"><img src="https://img.shields.io/twitter/follow/@siamtwisted?logo=twitter&style=for-the-badge" alt="@siamtwisted" /></a> </p>
+
 - 🌱 I’m currently learning **Raect**
 
 - 💬 Ask me about **Javascript**
