@@ -1,8 +1,8 @@
 ![image](https://github.com/MHS676/MHS676/assets/108753884/f42ccc38-80bf-486e-9866-d348a82118ea)
 <h1 align="center">Hi 👋, I'm Hasan Talukder</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img alt="Coding" align="left" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" >
 
-<img align= “right” alt = “Coding” width=“400” src=“https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif”>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mhs676&label=Profile%20views&color=0e75b6&style=flat" alt="mhs676" /> </p>
 
