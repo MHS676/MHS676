@@ -1,7 +1,7 @@
-![MasterHead](https://www.creativeitinstitute.com/images/course/course_1662795698.jpg)
-
 <h1 align="center">Hi 👋, I'm Hasan Talukder</h1>
 <h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
+
+![MasterHead](https://www.creativeitinstitute.com/images/course/course_1662795698.jpg)
 
 <div align="center">
   <img alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
