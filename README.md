@@ -6,7 +6,7 @@
 <div align="center">
   <img alt="Coding" width="400" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </div>
-
+ 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mhs676&label=Profile%20views&color=0e75b6&style=flat" alt="mhs676" /> 
 </p>
