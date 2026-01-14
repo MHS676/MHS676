@@ -2,7 +2,7 @@
 <h3 align="center">MERN Stack Developer • Building Scalable Web Experiences</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MHS676&label=Profile%20Views&color=6366f1&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=mhs676&label=Profile%20Views&color=6366f1&style=flat" />
 </p>
 
 <p align="center">
@@ -18,8 +18,8 @@ I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building
 
 - 🔹 JavaScript & Full-Stack Development  
 - 🔹 REST APIs & Backend Architecture  
-- 🔹 Real-world problem solving  
-- 🔹 Continuous learning mindset  
+- 🔹 Problem-solving with real impact  
+- 🔹 Always learning and improving  
 
 📫 **Email:** mahadihasansiam2@gmail.com
 
@@ -28,12 +28,7 @@ I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css&theme=dark" />
 </p>
 
 ---
@@ -60,7 +55,7 @@ I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MHS676&theme=darkhub&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhs676&theme=onedark&no-frame=true&column=4" />
 </p>
 
 ---
@@ -68,15 +63,15 @@ I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MHS676&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mhs676&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=MHS676&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=mhs676&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MHS676&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhs676&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
