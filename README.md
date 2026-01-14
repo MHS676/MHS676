@@ -1,3 +1,4 @@
+<!-- HERO -->
 <h1 align="center">Hi, I’m Hasan Talukder 👋</h1>
 <h3 align="center">MERN Stack Developer • Building Scalable Web Experiences</h3>
 
@@ -6,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW0xb3N4c2s0cTQ3eG9nZXRtZHFhZ3B4c3F0c2o0M2Z0a2l6bGZzbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="420" />
 </p>
 
 ---
@@ -16,19 +17,20 @@
 I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building  
 **clean, scalable, and user-centric web applications**.
 
-- 🔹 JavaScript & Full-Stack Development  
-- 🔹 REST APIs & Backend Architecture  
-- 🔹 Problem-solving with real impact  
-- 🔹 Always learning and improving  
+- 🔹 Strong foundation in **JavaScript & full-stack development**
+- 🔹 Experience with **REST APIs, modern UI & backend architecture**
+- 🔹 Love solving **real-world problems through code**
+- 🔹 Always learning, improving, and experimenting
 
-📫 **Email:** mahadihasansiam2@gmail.com
+💬 Ask me about **JavaScript, React, Node.js, Express, MongoDB**  
+📫 Reach me at: **mahadihasansiam2@gmail.com**
 
 ---
 
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,html,css,figma,photoshop&theme=dark" />
 </p>
 
 ---
@@ -36,17 +38,17 @@ I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/hasan-talukder-479920201/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="https://linkedin.com/in/hasan-talukder-479920201/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://twitter.com/siamtwisted">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter" />
+  <a href="https://twitter.com/siamtwisted" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
   </a>
-  <a href="https://www.facebook.com/profile.php?id=100004423950479">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook" />
+  <a href="https://www.facebook.com/profile.php?id=100004423950479" target="_blank">
+    <img src="https://skillicons.dev/icons?i=facebook" />
   </a>
-  <a href="https://www.behance.net/hasantalukder110">
-    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance" />
+  <a href="https://www.behance.net/hasantalukder110" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/1457/1457996.png" width="48" />
   </a>
 </p>
 
@@ -55,7 +57,7 @@ I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhs676&theme=onedark&no-frame=true&column=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mhs676&theme=onedark&no-frame=true&row=1&column=6" />
 </p>
 
 ---
@@ -67,7 +69,7 @@ I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mhs676&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mhs676&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
@@ -78,10 +80,10 @@ I’m a **passionate MERN Stack Developer from Bangladesh**, focused on building
 
 ## ⚡ Fun Fact
 
-> I don’t just write code — I **engineer solutions** that turn ideas into reality.
+> I don’t just write code — I **engineer solutions** that make ideas work in the real world.
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=120&section=footer"/>
 </p>
